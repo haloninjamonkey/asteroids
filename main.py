@@ -2,7 +2,7 @@
 # the open-source pygame library
 # throughout this file
 import pygame
-from asteroids.constants import *
+from constants import *
 
 def main():
     pygame.init
